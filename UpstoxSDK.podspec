@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
           #1.
-          s.name               = "UpstoxSDK"
+          s.name               = "UpstoxSDKDemo"
           #2.
           s.version            = "1.0.0"
           #3.  
